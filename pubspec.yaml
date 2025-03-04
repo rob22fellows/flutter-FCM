@@ -1,7 +1,7 @@
-name: flutter_notification
+name: BoatMonitor32
 description: A new Flutter for push notification.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
-version: 1.0.0+1
+version: 3.0.0+1
 
 environment:
   sdk: '>=3.3.2 <4.0.0'
